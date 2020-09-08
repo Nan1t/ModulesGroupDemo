@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8430fb9c-e5ce-427f-bca1-ef851ebd6c47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEgooxsq72HCiIDqaeyDEe7sRj" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Gradle.ModulesGroupDemo [jar]">
+    <configuration name="ModulesGroupDemo [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateProto" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ModulesGroupDemo [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ModulesGroupDemo [jar]" />
+        <item itemvalue="Gradle.ModulesGroupDemo [generateProto]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8430fb9c-e5ce-427f-bca1-ef851ebd6c47" name="Default Changelist" comment="" />
+      <created>1599581842633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599581842633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1599583603658">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603658" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1599583603655">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603655" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1599583603653">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603653" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1599583603656">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603656" />
+    <state x="269" y="117" width="1374" height="819" key="new project wizard" timestamp="1599581923204">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="269" y="117" width="1374" height="819" key="new project wizard/0.0.1920.1052@0.0.1920.1052" timestamp="1599581923204" />
+  </component>
+</project>
