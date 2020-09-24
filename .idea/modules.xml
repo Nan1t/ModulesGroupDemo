@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModulesGroupDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ModulesGroupDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModulesGroupDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ModulesGroupDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-first/ModulesGroupDemo.module-first.iml" filepath="$PROJECT_DIR$/.idea/modules/module-first/ModulesGroupDemo.module-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-first/ModulesGroupDemo.module-first.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-first/ModulesGroupDemo.module-first.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-first/ModulesGroupDemo.module-first.test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-first/ModulesGroupDemo.module-first.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-second/ModulesGroupDemo.module-second.iml" filepath="$PROJECT_DIR$/.idea/modules/module-second/ModulesGroupDemo.module-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-second/ModulesGroupDemo.module-second.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-second/ModulesGroupDemo.module-second.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-second/ModulesGroupDemo.module-second.test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-second/ModulesGroupDemo.module-second.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModulesGroupDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ModulesGroupDemo.test.iml" />
+    </modules>
+  </component>
+</project>

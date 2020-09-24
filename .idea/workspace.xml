@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8430fb9c-e5ce-427f-bca1-ef851ebd6c47" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,31 +21,12 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/module-second">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ModulesGroupDemo" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -64,9 +48,11 @@
     <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Gradle.ModulesGroupDemo [jar]">
+  <component name="RunManager" selected="Gradle.test:module-second [build]">
     <configuration name="ModulesGroupDemo [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -105,13 +91,34 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="test:module-second [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/module-second" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.test:module-second [build]" />
         <item itemvalue="Gradle.ModulesGroupDemo [jar]" />
         <item itemvalue="Gradle.ModulesGroupDemo [generateProto]" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8430fb9c-e5ce-427f-bca1-ef851ebd6c47" name="Default Changelist" comment="" />
@@ -123,22 +130,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1599583603658">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1600973324715">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600973324715" />
     <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603658" />
-    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1599583603655">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1600973324714">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600973324714" />
     <state width="1874" height="278" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603655" />
-    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1599583603653">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1600973324714">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600973324714" />
     <state width="1874" height="278" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603653" />
-    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1599583603656">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1600973324715">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600973324715" />
     <state width="1874" height="278" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1599583603656" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1600974071866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600974071866" />
     <state x="269" y="117" width="1374" height="819" key="new project wizard" timestamp="1599581923204">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
